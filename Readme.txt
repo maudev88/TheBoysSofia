@@ -1,5 +1,5 @@
-Link de la Página desplegada: http://bodyxfitness.somee.com/
+Link de la Página desplegada: http://theboyssofia.somee.com/Default.aspx
 
-Explicación en español: https://www.youtube.com/watch?v=UtRtcyd7jY0
+Explicación en español: https://youtu.be/EXlLznDCCHw
 
-Explicación en inglés: https://www.youtube.com/watch?v=Wscj26ufCsI
+Explicación en inglés: https://youtu.be/dYJzWne9chg

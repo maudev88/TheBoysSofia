@@ -230,10 +230,10 @@
             </div>
         </nav>
 
-        <%--  <div>
+          <div>
             <a href="https://maudev88.github.io/Portfolio/" target="_blank">
                 <img src="Imagenes/m.png" alt="Alternate Text" id="logoAbajo" /></a>
-        </div>--%>
+        </div>
 
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
